@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3479057852.index
+\web2-1\src\main\java
+C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1672408050.index
+\DynamicWeb\src\main\java
+C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3334731830.index
+\nome-projeto\src\main\java
+C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1739454448.index
+\testinho\src\main\java

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+539023242.index
+2307507205.index
+570629929.index
+131874978.index
+1784573843.index
+923175361.index

@@ -1,0 +1,32 @@
+2024-02-22 21:49:25,592 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-22 21:51:19,064 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:IFBA:0.0.1-SNAPSHOT @ C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\IFBA\pom.xml.
+2024-02-22 21:51:20,229 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IFBA/src/main/java
+2024-02-22 21:51:20,229 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IFBA/src/main/resources
+2024-02-22 21:51:20,236 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IFBA/src/main/resources
+2024-02-22 21:51:20,244 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IFBA/src/test/java
+2024-02-22 21:51:20,245 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IFBA/src/test/resources
+2024-02-22 21:51:22,011 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-02-22 21:51:22,015 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-22 21:51:22,435 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:IFBA:0.0.1-SNAPSHOT @ C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\IFBA\pom.xml.
+2024-02-22 21:51:23,169 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IFBA/src/main/java
+2024-02-22 21:51:23,169 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IFBA/src/main/resources
+2024-02-22 21:51:23,170 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IFBA/src/main/resources
+2024-02-22 21:51:23,170 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IFBA/src/test/java
+2024-02-22 21:51:23,171 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IFBA/src/test/resources
+2024-02-22 21:51:24,321 [Worker-8: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for IFBA
+2024-02-22 21:51:24,343 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2024-02-22 21:51:25,084 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-22 21:51:25,109 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-22 21:51:25,115 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\IFBA\src\test\resources
+2024-02-22 21:51:25,116 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IFBA
+2024-02-22 21:51:25,116 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IFBA
+2024-02-22 21:53:55,559 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\IFBA\src\main\resources
+2024-02-22 21:53:55,559 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\IFBA\src\main\resources
+2024-02-22 21:53:55,563 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\IFBA\src\test\resources
+2024-02-22 21:53:55,564 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IFBA
+2024-02-22 21:53:55,564 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IFBA
+2024-02-22 21:54:28,664 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\IFBA\src\main\resources
+2024-02-22 21:54:28,664 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\IFBA\src\main\resources
+2024-02-22 21:54:28,666 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fabiano.Vaz\Documents\Workspace\Web2\casa\IFBA\src\test\resources
+2024-02-22 21:56:48,790 [Worker-18: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\Fabiano.Vaz\git\repository2\.git]
+2024-02-22 21:57:37,550 [Framework stop - Equinox Container: 2f76a63a-1e93-4cba-ab0d-45a6a088ed50] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\Fabiano.Vaz\git\eclip\.git]

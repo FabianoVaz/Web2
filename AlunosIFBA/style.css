@@ -1,0 +1,63 @@
+*{ margin: 0px;}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('bg.svg');
+}
+
+#miolo{
+    width: 50%;
+    min-height: 80%;
+    background-color: #fff0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.card{
+    background-color: #f1efef;
+    width: 100%;
+    height: 110px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+    box-shadow: 0px 5px 5px 2px rgba(0, 0, 0, 0.4);
+    overflow: hidden;
+}
+
+.foto > img{
+    height: 90px;
+    width: 90px;
+    border-radius: 45px;
+    object-fit: cover;
+    box-shadow: 0px 3px 5px 2px rgba(0, 0, 0, 0.4);
+}
+
+#nome{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+#cidade{
+    font-size: .8em;
+    font-weight: 200;
+}
+
+.cor{
+    width: 8px;
+    height: 100%;
+}
+
+.red{background-color: #e43b1d;}
+.green{background-color: #07b407;}
+.blue{background-color: #074fc3;}
